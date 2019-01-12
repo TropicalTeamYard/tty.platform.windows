@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--设置类1.0.4.0版本,基于USettingsObject.-->
+<wejh.test.Data.DataCache>
+  <user type="wejh.test.Data.User, wejh.test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <username type="System.String"></username>
+    <nickname type="System.String"></nickname>
+    <credit type="System.String"></credit>
+    <state type="System.Int32">0</state>
+  </user>
+</wejh.test.Data.DataCache>
