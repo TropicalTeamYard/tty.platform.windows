@@ -8,3 +8,13 @@ C:\Users\cht\Program\Web\tty.platform.aspserver\tty.interactive\obj\Debug\tty.in
 C:\Users\cht\Program\Web\tty.platform.aspserver\tty.interactive\obj\Debug\tty.interactive.csproj.CopyComplete
 C:\Users\cht\Program\Web\tty.platform.aspserver\tty.interactive\obj\Debug\tty.interactive.dll
 C:\Users\cht\Program\Web\tty.platform.aspserver\tty.interactive\obj\Debug\tty.interactive.pdb
+C:\Users\cht\Program\C#\tty.platform.windows\tty.interactive\bin\Debug\tty.interactive.dll
+C:\Users\cht\Program\C#\tty.platform.windows\tty.interactive\bin\Debug\tty.interactive.pdb
+C:\Users\cht\Program\C#\tty.platform.windows\tty.interactive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cht\Program\C#\tty.platform.windows\tty.interactive\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\cht\Program\C#\tty.platform.windows\tty.interactive\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cht\Program\C#\tty.platform.windows\tty.interactive\obj\Debug\tty.interactive.csprojAssemblyReference.cache
+C:\Users\cht\Program\C#\tty.platform.windows\tty.interactive\obj\Debug\tty.interactive.csproj.CoreCompileInputs.cache
+C:\Users\cht\Program\C#\tty.platform.windows\tty.interactive\obj\Debug\tty.interactive.csproj.CopyComplete
+C:\Users\cht\Program\C#\tty.platform.windows\tty.interactive\obj\Debug\tty.interactive.dll
+C:\Users\cht\Program\C#\tty.platform.windows\tty.interactive\obj\Debug\tty.interactive.pdb
